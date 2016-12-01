@@ -1,2 +1,3 @@
 # fireeyehx_misp_import
-Import moduöe for Fireeye HX Alerts
+Import module for Fireeye HX Alerts
+
